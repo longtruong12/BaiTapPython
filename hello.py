@@ -1,6 +1,6 @@
 # Khai báo biến
-hoTen = "Tran Vinh Lam"
-namSinh = 1999
+hoTen = "Truong Dinh Long"
+namSinh = 2000
 
 # Một Object 
 thongTin = {
